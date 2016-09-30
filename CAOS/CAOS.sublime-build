@@ -1,0 +1,4 @@
+{
+	"cmd": ["PATH TO YOUR CAOS Sublime Builder.exe", "$file"],
+	"selector" : "source.cos"
+}
