@@ -1,4 +1,4 @@
-# CAOS syntax package for Sublume Text 2/3
+# CAOS syntax package for Sublime Text 2/3
 
 This Package provides Syntax highlighting for the CAOS Script Language, used by the Games [Creatures 3](https://creatures.wiki/Creatures_3), [Creatures Dockingstation](https://creatures.wiki/Docking_Station), [Creatures Village](https://creatures.wiki/Creatures_Village).
 
